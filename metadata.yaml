@@ -1,5 +1,5 @@
 _repo: Joshua-Volume-5_5471
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Safford, Mary J.
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'German fiction -- Translations into English'
 - !lcsh 'Palestine -- History -- Fiction'
 - !lcc 'PT'
+- GITenberg
 title: Joshua — Volume 5
 url: http://www.gutenberg.org/ebooks/5471
